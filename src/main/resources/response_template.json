@@ -1,0 +1,29 @@
+{
+  "round_description": "String",
+  "players": {
+    "player_1": {
+      "mission": "String",
+      "behavior_options": {
+        "option_1": "String",
+        "option_2": "String",
+        "option_3": "String"
+      }
+    },
+    "player_2": {
+      "mission": "String",
+      "behavior_options": {
+        "option_1": "String",
+        "option_2": "String",
+        "option_3": "String"
+      }
+    },
+    "player_3": {
+      "mission": "String",
+      "behavior_options": {
+        "option_1": "String",
+        "option_2": "String",
+        "option_3": "String"
+      }
+    }
+  }
+}
