@@ -69,22 +69,7 @@ POST http://localhost:8080/game/session/de24c223-91b3-45bb-8933-6dbcc6394c33/pla
   "description":"A young, inexperienced dragon rider with a fiery spirit and a deep connection to their dragon companion"
 }
 ```
-#### Return example
-```json
-{
-  "session_id": "9226ccec-73a2-4cd2-9404-fc930d5847d8",
-  "game_genre": "cartoon",
-  "world_description": "A laboratory, with 2 mouses in a cage",
-  "mission": "Try to rule the world",
-  "start_date": "2024-08-09T00:58:38.4426631",
-  "players": [
-    {
-      "name": "Brain",
-      "description": "A white, laboratory mouse, with a big head"
-    }
-  ]
-}
-```
+
 
 ------
 
